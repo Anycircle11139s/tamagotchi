@@ -1,5 +1,5 @@
 # tamagotchi
-I made a custom tamagotchi for myself because stasis is taking forever to send the tamagotchis. I followed the guided tutorial from fallout and looked at some other projects for reference. Overall I am really happy with my progress and I learn a decent amount about PCBs while retaining/honing my CADing skills. The journals and other info can be found on my stasis project (https://stasis.hackclub.com/dashboard/projects/cmoldt6hz000401o6fho5nhdl)
+I made a custom tamagotchi for myself because stasis is taking forever to send the tamagotchis and I lowkey gotta improve my responsibility. I followed the guided tutorial from fallout and looked at some other projects for reference. Overall I am really happy with my progress and I learnt a decent amount about PCBs while retaining/honing my CADing skills. The schematic and PCB were fairly easy for me, but when creating the pcb, I decided on makeing the weirdest shape in existence, so I had to spend a really long time matching the PCB shape for the CAD case. The journals and other info can be found on my stasis project (https://stasis.hackclub.com/dashboard/projects/cmoldt6hz000401o6fho5nhdl)
 <br>
 
 
